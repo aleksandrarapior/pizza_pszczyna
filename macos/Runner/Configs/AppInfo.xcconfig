@@ -8,7 +8,7 @@
 PRODUCT_NAME = pizza_pszczyna
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.pizzaPszczyna
+PRODUCT_BUNDLE_IDENTIFIER = com.aleksandrarapior.pizzaPszczyna
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2024 com.example. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2024 com.aleksandrarapior. All rights reserved.

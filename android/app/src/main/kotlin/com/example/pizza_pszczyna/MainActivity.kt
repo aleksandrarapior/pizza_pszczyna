@@ -1,4 +1,4 @@
-package com.example.pizza_pszczyna
+package com.aleksandrarapior.pizza_pszczyna
 
 import io.flutter.embedding.android.FlutterActivity
 
