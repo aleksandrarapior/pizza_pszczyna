@@ -38,7 +38,6 @@ class RestaurantsPageContent extends StatelessWidget {
                           Text(document['pizza']),
                         ],
                       ),
-                      Text(document['pizza']),
                       Text(document['rating'].toString()),
                     ],
                   ),
